@@ -1,0 +1,18 @@
+\\MC0816\03 Gerencia Adjunta de Canales Físicos\hiper\Entregables
+
+OP 1080
+
+bnw 209
+nt 108 - F
+RD 2
+ger 4
+AHIRU NO SORA 20
+
+
+
+
+
+
+
+
+
